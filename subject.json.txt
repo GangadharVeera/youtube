@@ -1,0 +1,26 @@
+[
+{
+ "subject":"Data Structures",
+"data":"20 Videos 10 docs 33 PPT"
+}
+,
+{
+ "subject":"Computer Networks",
+"data":"20 Videos 10 docs 33 PPT"
+}
+,
+{
+ "subject":"Engineering Physics",
+"data":"20 Videos 10 docs 33 PPT"
+}
+,
+{
+ "subject":"Management Science",
+"data":"20 Videos 10 docs 33 PPT"
+}
+,
+{
+ "subject":"Electronic devices and Circuits",
+"data":"20 Videos 10 docs 33 PPT"
+}
+]
